@@ -1,0 +1,12 @@
+{
+	"masterVersionFile":"https://raw.githubusercontent.com/nikothedude/nexerelinqueued/main/nexerelinqueued.version?token=AOHRNA3U5WOZGY2E24YK4JDACYUGO",
+	"modName":"NexerelinQueued",
+	"modThreadId":19731,
+	"modVersion":
+	{
+		"major":1,
+		"minor":1,
+		"patch":0c
+	},
+	"starsectorVersion":"0.9.1a"
+}
