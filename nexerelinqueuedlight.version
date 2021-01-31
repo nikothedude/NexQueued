@@ -1,0 +1,12 @@
+{
+	"masterVersionFile":"https://raw.githubusercontent.com/nikothedude/NexQueued/main/nexerelinqueuedlight.version",
+	"modName":"NexerelinQueuedLight",
+	"modThreadId":19731,
+	"modVersion":
+	{
+		"major":1,
+		"minor":1,
+		"patch":0
+	},
+	"starsectorVersion":"0.9.1a"
+}
